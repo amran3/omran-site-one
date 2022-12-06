@@ -41,7 +41,7 @@ ul li {
 /* end main rules  */
 /* starting first page  */
 .main {
-    background-image: url('./img/Home.png');
+    background-image: url('/img/Home.png');
     background-attachment: fixed;
     background-size: cover;
     background-position: center center;
